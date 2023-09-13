@@ -1,0 +1,7 @@
+.centrar {
+  text-align: center;
+}
+.centrar ul {
+  text-align: left;
+  display: inline-block;
+}

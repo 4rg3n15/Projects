@@ -1,0 +1,40 @@
+.bgimg {
+  background-image: url("https://cdn.wallpapersafari.com/95/73/X7fpMO.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  background-attachment: fixed;
+}
+.text {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #7472cb;
+  text-align: center;
+}
+img {
+  box-shadow: 2px 3px 7px 4px #1ab891;
+}
+.texto {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: rgb(81, 130, 172);
+  text-align: center;
+  font-size: larger;
+}
+.centrar {
+  text-align: left;
+  display: inline-block;
+  color: #e79a44;
+}
+.centrar2 {
+  text-align: left;
+  display: inline-block;
+  color: #ffffff;
+}
+.footer {
+  text-align: left;
+  color: #ffffff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  position: sticky;
+  bottom: 30px;
+  left: 100px;
+}

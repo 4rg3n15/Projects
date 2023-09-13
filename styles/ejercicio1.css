@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+.text {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: darkgoldenrod;
+  text-align: start;
+}
+.texto {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: darkgoldenrod;
+  text-align: center;
+  font-size: large;
+}
+.img {
+  box-shadow: 3px 3px 4px darkgoldenrod;
+}
+.footer {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: darkgoldenrod;
+  position: absolute;
+  bottom: 0;
+  left: 2;
+  z-index: 10;
+}
